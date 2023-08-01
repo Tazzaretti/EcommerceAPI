@@ -1,0 +1,7 @@
+C:\Users\tomia\OneDrive\Escritorio\EcommerceAPI\obj\Debug\net6.0\EcommerceAPI.csproj.AssemblyReference.cache
+C:\Users\tomia\OneDrive\Escritorio\EcommerceAPI\obj\Debug\net6.0\EcommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomia\OneDrive\Escritorio\EcommerceAPI\obj\Debug\net6.0\EcommerceAPI.AssemblyInfoInputs.cache
+C:\Users\tomia\OneDrive\Escritorio\EcommerceAPI\obj\Debug\net6.0\EcommerceAPI.AssemblyInfo.cs
+C:\Users\tomia\OneDrive\Escritorio\EcommerceAPI\obj\Debug\net6.0\EcommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\tomia\OneDrive\Escritorio\EcommerceAPI\obj\Debug\net6.0\EcommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tomia\OneDrive\Escritorio\EcommerceAPI\obj\Debug\net6.0\EcommerceAPI.MvcApplicationPartsAssemblyInfo.cache
