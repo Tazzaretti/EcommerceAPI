@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Model.DTOs;
-using MyTest.Common;
+using EcommerceAPI.Common;
 using Service.Iservices;
 using Service.Service;
 using System.Security.Claims;
-namespace MyTest.Controllers
+namespace EcommerceAPI.Controllers
 {
     
     [Route("api/[controller]")]

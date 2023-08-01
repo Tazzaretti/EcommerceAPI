@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceAPI", "EcommerceAPI.csproj", "{35CA9767-9913-4647-9A7F-003AC1A92762}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceAPI", "EcommerceAPI.csproj", "{35CA9767-9913-4647-9A7F-003AC1A92762}"
+	ProjectSection(ProjectDependencies) = postProject
+		{25BDEE0F-6224-4F52-8E0B-BE116AE3CA5F} = {25BDEE0F-6224-4F52-8E0B-BE116AE3CA5F}
+		{7C7E6B83-D945-427F-9C5E-7C8E80D23557} = {7C7E6B83-D945-427F-9C5E-7C8E80D23557}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{25BDEE0F-6224-4F52-8E0B-BE116AE3CA5F}"
 EndProject

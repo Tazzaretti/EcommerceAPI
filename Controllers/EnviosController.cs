@@ -3,7 +3,7 @@ using Model.DTOs;
 using Model.Models;
 using Service.Iservices;
 
-namespace MyTest.Controllers
+namespace EcommerceAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

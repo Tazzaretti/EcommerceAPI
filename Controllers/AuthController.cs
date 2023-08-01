@@ -2,10 +2,10 @@
 using Microsoft.AspNetCore.Mvc;
 using Model.DTOs;
 using Model.ViewModels;
-using MyTest.Common;
+using EcommerceAPI.Common;
 using Service.Iservices;
 using Service.Service;
-namespace MyTest.Controllers
+namespace EcommerceAPI.Controllers
 {
     [Route("api/auth")]
     [ApiController]
